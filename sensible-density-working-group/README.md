@@ -1,0 +1,5 @@
+When he was running for mayor, Supervisor Aaron Peskin created a resolution to create a Sensible Density Working Group to study Single-Stair building code reform ([Board File 241047](https://sfgov.legistar.com/LegislationDetail.aspx?ID=6904478&GUID=43203D34-057F-4C5B-8F9A-721B798ABF2B)). This resolution passed 11-0 on 10/29/2024 and was approved after Mayor Breed left it unsigned.
+
+The resolution requested the creation of a “Sensible Density Working Group” “for the purpose of studying how to safely allow single-stair building typologies on four, five and six story buildings”, “develop recommendations to inform a bulletin on building code equivalencies to allow single-stair buildings of four, five or six stories”, and “produce a written report to the Board within 60 days of the Resolution passing the Board” (that is, by 12/28/2024)
+
+On 10/23/2025 I emailed CPC.Media@sfgov.org to ask for the report of the working group. They responded that this [Sensibile Density Working Group Report.pdf](./Sensibile%20Density%20Working%20Group%20Report.pdf) is “the product of the group.”
